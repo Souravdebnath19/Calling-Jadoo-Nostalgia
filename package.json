@@ -1,0 +1,17 @@
+{
+  "name": "calling-jadoo-main",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "![image](https://github.com/Souravdebnath19)# calling-jadoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^21.0.0"
+  },
+  "devDependencies": {}
+}
